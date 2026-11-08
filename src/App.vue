@@ -37,14 +37,14 @@ const tickerSpans = 6;
       <nav class="navigation" aria-label="統計ページ">
         <a
           class="home-action"
-          href="https://analytics.yexe.top/month/latest"
+          href="https://analytics.ymkw.top/month/latest"
           aria-label="月間レポート"
         >
           <ReelLabel text="月間レポート" />
         </a>
         <a
           class="home-action"
-          href="https://analytics.yexe.top/all"
+          href="https://analytics.ymkw.top/all"
           aria-label="累計ランキング"
         >
           <ReelLabel text="累計ランキング" />
@@ -62,8 +62,8 @@ const tickerSpans = 6;
     </section>
     <SocialBar />
     <nav class="legal-links" aria-label="サイトポリシー">
-      <a href="https://analytics.yexe.top/terms">terms</a>
-      <a href="https://analytics.yexe.top/privacy">privacy</a>
+      <a href="https://analytics.ymkw.top/terms">terms</a>
+      <a href="https://analytics.ymkw.top/privacy">privacy</a>
     </nav>
     <span class="copyright">© 2026 ymkw.top</span>
     <SiteLoader />
